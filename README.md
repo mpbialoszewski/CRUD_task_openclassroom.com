@@ -14,6 +14,10 @@ Then within the folder 'frontend' run
 
 ng-serve 
 
+Then in other terminal (or your IDE Terminal ) run this command in backend directory 
+
+node server
+
 
 
 
