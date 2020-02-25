@@ -1,5 +1,5 @@
 # CRUD_task_openclassroom.com
-This is a task to create API to the frontend provided by site openclassroom.com . This was my first ever created API 
+This is a task to create API with Node.js / MongoDB Atlas to the frontend provided by site openclassroom.com . This was my first ever created API 
 
 ## To run this you need 
 
