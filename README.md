@@ -3,8 +3,11 @@ This is a task to create API with Node.js / MongoDB Atlas to the frontend provid
 
 ## To run this you need 
 
-Angular CLI for fron-end 
-npm install -g @angular/cli
+Angular CLI for front-end
+
+To install it globally type in NPM Command Line 
+
+`npm install -g @angular/cli`
 
 Once installed clone this repo 
 
